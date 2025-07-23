@@ -25,3 +25,8 @@ def string(first_name):
 First_Name = string(input('Enter Your First Name: '))
 Last_Name = string(input('Enter Your Last Name: '))
 print('Hello,' , First_Name,'!' , Last_Name,'! Welcome to the Python Program')
+
+""" OUTPUT
+Enter Your First Name: NIK
+Enter Your Last Name: SID
+Hello, NIK ! SID ! Welcome to the Python Program"""
